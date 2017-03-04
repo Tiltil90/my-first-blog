@@ -25,7 +25,7 @@ SECRET_KEY = '#ug=8jy*pguv_l&!^mobyu$@yyqt+oy9e_4g_0^4ps9wmzs(ce'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://tiltil90.pythonanywhere.com/']
 
 
 # Application definition
